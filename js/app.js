@@ -15,19 +15,19 @@ $(document).ready(function() {
         const relative1 = $("#relative-1").val();
 
 
-        $("#name-1").text(name1);
-        $("#name-2").text(name2);
-        $("#name-3").text(name3);
-        $("#number-1").text(number1);
-        $("#email-1").text(email1);
-        $("#address-1").text(address1);
-        $("#address-2").text(address2);
-        $("#address-3").text(address3);
-        $("#number-2").text(number2);
-        $("#name-4").text(name4);
-        $("#address-4").text(address4);
-        $("#number-3").text(number3);
-        $("#relative-1").text(relative1);
+        $(".name-1").text(name1);
+        $(".name-2").text(name2);
+        $(".name-3").text(name3);
+        $(".number-1").text(number1);
+        $(".email-1").text(email1);
+        $(".address-1").text(address1);
+        $(".address-2").text(address2);
+        $(".address-3").text(address3);
+        $(".number-2").text(number2);
+        $(".name-4").text(name4);
+        $(".address-4").text(address4);
+        $(".number-3").text(number3);
+        $(".relative-1").text(relative1);
 
         $("#letter").show();
 
