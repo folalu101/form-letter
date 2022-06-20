@@ -36,11 +36,19 @@ p {
    padding: 15px;
 }
 .letter-img {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 .ending {
     position: relative;
     left: 900px;
     height: 120px;
+}
+h6 {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 8px;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
 }
