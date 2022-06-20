@@ -23,7 +23,6 @@ h1 {
     right: 150px;
     width: 165px;
     height: 181px;
-    
 }
 p {
     font-display: 10px;
@@ -42,6 +41,6 @@ p {
 }
 .ending {
     position: relative;
-    left: 920px;
+    left: 900px;
     height: 120px;
 }
