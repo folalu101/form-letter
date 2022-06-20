@@ -18,7 +18,7 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: oblique;
 }
-#letter-add {
+.letter-add {
     position: absolute;
     right: 150px;
     width: 165px;
@@ -39,4 +39,9 @@ p {
 .letter-img {
     height: 200px;
     width: 200px;
+}
+.ending {
+    position: relative;
+    left: 920px;
+    height: 120px;
 }
